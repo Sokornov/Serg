@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" style="background: rgba(0,114,191,0.00); white-space: pre;">
+    <style>
+@keyframes e-6_do { 0% { stroke-dashoffset: 0px; } 33.2594% { stroke-dashoffset: 0px; animation-timing-function: cubic-bezier(0.77,0,0.175,1); } 88.6918% { stroke-dashoffset: 1580px; } 100% { stroke-dashoffset: 1580px; } }
+    </style>
+    <title>Circle</title>
+    <ellipse id="e-6" rx="125" ry="125" fill="none" stroke="#ffbf44" stroke-linecap="butt" stroke-width="250" fill-rule="nonzero" stroke-linejoin="miter" stroke-dasharray="790" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(249.513,249.487) translate(0.5,0.5)" style="animation: 9.02s linear infinite both e-6_do;"/>
+</svg>
