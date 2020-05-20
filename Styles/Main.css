@@ -81,7 +81,7 @@ header
     margin-top: 21vh;
     padding-bottom: 50px;
 }
-.About div, .About img
+.Block, .About img
 {
     padding:0px 50px;
 }
@@ -91,14 +91,15 @@ header
     font-size: 19px;
     line-height: 30px;
     font-weight: 400;
-    width: calc(50%-100px);
+}
+.Block
+{
+    width: 50%;
 }
 .circle-line
 {
     color:white;
     filter: brightness(400%) grayscale(100%);
-    display: flex;
-    width:25%;
 }
 .circle-line:hover
 {
